@@ -12,7 +12,7 @@ https://downloads.mysql.com/archives/c-odbc/
 Creating Database.
 
 1.Create a database in the localhost/phpmyadmin/ named "southgatedb".\
-2.Import the .sql file in the database that you have created.
+2.Import the southgatedb.sql file in the database that you have created.
 
 
 Run the program\
