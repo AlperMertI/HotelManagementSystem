@@ -2,9 +2,9 @@
 Requirements:
 Download the following: 
 
-https://www.apachefriends.org/download.html\
-https://dev.mysql.com/downloads/connector/net/6.4.html\
-https://downloads.mysql.com/archives/c-odbc/\ 
+https://www.apachefriends.org/download.html \
+https://dev.mysql.com/downloads/connector/net/6.4.html \
+https://downloads.mysql.com/archives/c-odbc/ \ 
 
 
 
@@ -19,7 +19,7 @@ Run the program\
 For admin\
 localhost/SouthGateInn/admin/\
 Username: admin\
-Password: admin\
+Password: admin
  
 for Guest\
 localhost/SouthGateInn/
